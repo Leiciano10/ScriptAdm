@@ -1,4 +1,4 @@
-﻿# ADM-MANAGER-DANKELTHAHER
+﻿# SILVER ADM 
 
 **Manager Script Repositorio**
 
@@ -8,4 +8,3 @@
 
 ## Installation
 
-wget https://raw.githubusercontent.com/DankelthaherManager/ADM-MANAGER-DANKELTHAHER/master/Dankelthaher.sh; chmod 777 Dankelthaher.sh* && ./Dankelthaher.sh*
